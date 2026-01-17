@@ -1,0 +1,57 @@
+[
+  {
+    "id": "downtown",
+    "slug": "downtown",
+    "name": "Downtown Roastery",
+    "status": "open",
+    "hoursShort": "Daily 7a–6p",
+    "hoursLong": "Mon–Fri 7a–6p · Sat–Sun 8a–6p",
+    "addressLines": ["201 Congress Ave", "Austin, TX 78701"],
+    "phone": "(512) 555-2010",
+    "links": {
+      "menuUrl": "https://cafelatte.example.com/menu.pdf",
+      "orderUrl": "https://order.cafelatte.example.com/downtown",
+      "deliveryUrl": "https://www.ubereats.com",
+      "directionsUrl": "https://maps.google.com/?q=201+Congress+Ave+Austin+TX"
+    },
+    "heroImage": "bar-line",
+    "galleryImages": ["hero-coffee", "community-table", "pastry-case", "beans-scoop"],
+    "notes": "Espresso flights, seasonals, and morning tacos until sold out."
+  },
+  {
+    "id": "eastside",
+    "slug": "eastside",
+    "name": "Eastside All-Day",
+    "status": "open",
+    "hoursShort": "Daily 6a–8p",
+    "hoursLong": "Sun–Thu 6a–8p · Fri–Sat 6a–9p",
+    "addressLines": ["1200 E 6th St", "Austin, TX 78702"],
+    "phone": "(512) 555-0600",
+    "links": {
+      "menuUrl": "https://cafelatte.example.com/menu.pdf",
+      "orderUrl": "https://order.cafelatte.example.com/eastside",
+      "deliveryUrl": "https://www.doordash.com",
+      "directionsUrl": "https://maps.google.com/?q=1200+E+6th+St+Austin+TX"
+    },
+    "heroImage": "sunlit-lounge",
+    "galleryImages": ["pour-over", "iced-tonic", "mugs-stack", "night-exterior"],
+    "notes": "Co-working tables, fast Wi‑Fi, and a patio for golden hour hangs."
+  },
+  {
+    "id": "riverside",
+    "slug": "riverside",
+    "name": "Riverside Pop-Up",
+    "status": "comingSoon",
+    "hoursShort": "Launching Spring",
+    "addressLines": ["2401 Riverside Dr", "Austin, TX 78741"],
+    "links": {
+      "menuUrl": null,
+      "orderUrl": null,
+      "deliveryUrl": null,
+      "directionsUrl": "https://maps.google.com/?q=2401+Riverside+Dr+Austin+TX"
+    },
+    "heroImage": "night-exterior",
+    "galleryImages": ["hero-coffee", "community-table", "beans-scoop"],
+    "notes": "Soft-opening soon with walk-up window service."
+  }
+]

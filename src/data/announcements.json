@@ -1,0 +1,26 @@
+[
+  {
+    "id": "winter-menu",
+    "headline": "WINTER MENU, FIERY FLAVORS",
+    "body": "Spiced mochas, mezcal cortados, and scratch-made breakfast tacos hit the line all season.",
+    "image": "pastry-case",
+    "ctaLabel": "See the menu",
+    "ctaHref": "locations/"
+  },
+  {
+    "id": "catering",
+    "headline": "COFFEE CART FOR EVENTS",
+    "body": "From office drops to wedding weekends, our bar team will pull up with beans, steam, and smiles.",
+    "image": "community-table",
+    "ctaLabel": "Book the cart",
+    "ctaHref": "contact/"
+  },
+  {
+    "id": "latte-lab",
+    "headline": "LATTE LAB THURSDAYS",
+    "body": "Limited-run drinks, guest roasters, and live vinyl from local DJs every Thursday night.",
+    "image": "night-exterior",
+    "ctaLabel": "View events",
+    "ctaHref": "events/"
+  }
+]

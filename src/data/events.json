@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vinyl-nights",
+    "title": "Vinyl Nights: Soul & Cumbia",
+    "locationSlug": "eastside",
+    "dateStartISO": "2025-02-07",
+    "timeDisplay": "Fridays · 7:00–10:00p",
+    "description": "Local DJs spin soul, funk, and cumbia while we pour mezcal cortados and nitro teas.",
+    "ctaLabel": "RSVP",
+    "ctaUrl": "https://example.com/events/vinyl",
+    "directionsUrl": "https://maps.google.com/?q=1200+E+6th+St+Austin+TX",
+    "image": "night-exterior"
+  },
+  {
+    "id": "latte-workshop",
+    "title": "Latte Art Workshop",
+    "locationSlug": "downtown",
+    "dateStartISO": "2025-02-15",
+    "timeDisplay": "Saturday · 10:00a–12:00p",
+    "description": "Learn basic steaming, pouring patterns, and dialing in espresso with our bar leads.",
+    "ctaLabel": "Grab a spot",
+    "ctaUrl": "https://example.com/events/latte-workshop",
+    "directionsUrl": "https://maps.google.com/?q=201+Congress+Ave+Austin+TX",
+    "image": "pour-over"
+  },
+  {
+    "id": "cafe-jam",
+    "title": "Cafe Jam: Local Songwriters",
+    "locationSlug": "downtown",
+    "dateStartISO": "2025-03-01",
+    "timeDisplay": "First Saturdays · 6:00–8:30p",
+    "description": "Acoustic sets from Austin songwriters, limited reserved seating.",
+    "ctaLabel": "Get details",
+    "ctaUrl": "https://example.com/events/cafe-jam",
+    "directionsUrl": "https://maps.google.com/?q=201+Congress+Ave+Austin+TX",
+    "image": "community-table"
+  },
+  {
+    "id": "soft-opening",
+    "title": "Riverside Soft Opening",
+    "locationSlug": "riverside",
+    "dateStartISO": "2025-04-12",
+    "timeDisplay": "Saturday · 9:00a–1:00p",
+    "description": "Be the first to taste the Riverside menu. Limited pastries, plenty of cold brew.",
+    "ctaLabel": "Remind me",
+    "ctaUrl": "https://example.com/events/riverside",
+    "directionsUrl": "https://maps.google.com/?q=2401+Riverside+Dr+Austin+TX",
+    "image": "iced-tonic"
+  }
+]

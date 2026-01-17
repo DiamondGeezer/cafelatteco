@@ -1,0 +1,23 @@
+{
+  "brandName": "Cafe Latte Co.",
+  "tagline": "Hot coffee. Good food. All day.",
+  "primaryCtaLabel": "Order Now",
+  "primaryCtaHref": "order/",
+  "secondaryCtaLabel": "View Locations",
+  "secondaryCtaHref": "locations/",
+  "heroHeadline": "Hot coffee. Good food. Stay awhile.",
+  "heroSubhead": "Austin-born cafés serving bold espresso, breakfast tacos, and warm hospitality from sunrise to last call.",
+  "shopHref": "https://shop.cafelatte.example.com",
+  "contactEmail": "hello@cafelatte.example.com",
+  "pressEmail": "press@cafelatte.example.com",
+  "contactPhone": "(512) 555-7771",
+  "social": {
+    "instagram": "https://www.instagram.com/cafelatteco",
+    "facebook": "https://www.facebook.com/cafelatteco"
+  },
+  "seo": {
+    "title": "Cafe Latte Co. | Coffee, tacos, community",
+    "description": "Cafe Latte Co. serves bold espresso, tacos, and good vibes across Austin. Order ahead, stop in, or book us for your next event.",
+    "image": "assets/images/hero-coffee.jpg"
+  }
+}
